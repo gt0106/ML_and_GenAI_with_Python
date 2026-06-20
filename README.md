@@ -1,5 +1,3 @@
-# Netflix-User-Analytics
-
 Student Name: Tanishka
 
 Enrollment Number: 07001192024
